@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "954062933440",
+    "project_id": "iocstructuredemo",
+    "storage_bucket": "iocstructuredemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954062933440:android:34bc11cd42b54cbcd40c25",
+        "android_client_info": {
+          "package_name": "com.xxxxxxx.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEke0I9cEnr0gHeyLPAz4ZPvJ5HcUXY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954062933440:android:92d36d0634dc53d9d40c25",
+        "android_client_info": {
+          "package_name": "com.xxxxxxx.app.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEke0I9cEnr0gHeyLPAz4ZPvJ5HcUXY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954062933440:android:aa73aa546a96bf32d40c25",
+        "android_client_info": {
+          "package_name": "com.xxxxxxx.app.uat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqEke0I9cEnr0gHeyLPAz4ZPvJ5HcUXY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
